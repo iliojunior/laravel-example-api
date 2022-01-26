@@ -17,9 +17,9 @@ Install docker and docker-compose then run:
 So, **Bazinga!**
 
 Now you can do requests (curl, postman...):
-GET http://localhost:8080/api/companies/:cnpj
-PUT http://localhost:8080/api/companies/:cnpj
-DELETE http://localhost:8080/api/companies/:cnpj
+ - GET http://localhost:8080/api/companies/:cnpj
+ - PUT http://localhost:8080/api/companies/:cnpj
+ - DELETE http://localhost:8080/api/companies/:cnpj
 
 ## Install composer dependencies
 I installed composer dependencies by docker.
