@@ -8,7 +8,8 @@
  
 ## How to run
 Copy .env.example to .env
-*Note: It is prepared to work directly with docker in project.*
+
+_Note: It is prepared to work directly with docker in project._
 
 Install docker and docker-compose then run:
 `docker-compose up -d`
@@ -28,6 +29,9 @@ I installed composer dependencies by docker.
 With docker containers running
 `docker exec -it app-php php artisan test`
 
-*Note: *
-*- These docker images was create by me on previous projects then i used here to earn time.*
-*- These docker commands was use in Linux Ubuntu, may need some attention on windows*
+
+Note: 
+
+- These docker images was create by me on previous projects then i used here to earn time.
+
+- These docker commands was use in Linux Ubuntu, may need some attention on windows
